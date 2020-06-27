@@ -1,5 +1,5 @@
-[Любители пощекотать топики или разработка событийно ориентированных систем с помощью кафка](2020-27-June-DevParty) [:movie_camera:](https://youtu.be/kUwuQkiccpM)
-
+[Любители пощекотать топики или разработка событийно ориентированных систем с помощью кафка :movie_camera:](https://youtu.be/kUwuQkiccpM) 2020-27-June-DevParty
+![alt text](https://github.com/GSkoba/gskoba.github.io/blob/master/img/2020-06-27%2015.36.26.jpg)
 # Getting Started
 ## Run kafka and zookeeper containers in docker 
 Zookeeper
